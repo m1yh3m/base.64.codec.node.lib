@@ -1,8 +1,8 @@
 {
   "name": "@m1yh3m/base.64.codec.node.lib",
-  "version": "1.0.0",
-  "description": "### installation",
-  "main": "index.js",
+  "version": "2021.1.1",
+  "description": "Encoding and Decoding functions for base64",
+  "main": "src/codec.js",
   "dependencies": {
     "@m1yh3m/base.64.decode.node.lib": "^1.0.0",
     "@m1yh3m/base.64.encode.node.lib": "^1.0.0"
@@ -11,7 +11,13 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "base64",
+    "base64encode",
+    "base64decode",
+    "encode",
+    "decode"
+  ],
+  "author": "Anubhav <iamanubhavsaini@gmail.com>",
+  "license": "MIT"
 }
