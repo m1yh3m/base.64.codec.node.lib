@@ -22,7 +22,7 @@ I know it's a lib.
 
 ```bash
 
-npm i -g @@m1yh3m/base.64.codec.node.lib
+npm i -g @m1yh3m/base.64.codec.node.lib
 
 _encode64 what!
 ┌─────────┬─────────┬────────────┐
